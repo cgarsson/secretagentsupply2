@@ -1,0 +1,27 @@
+html {
+  font-size: 18px;
+  background-color: white;
+  font-family: Helvetica;
+}
+
+.banner .container {
+  width: 960px;
+  padding-top: .66rem;
+  padding-bottom: .66rem;
+}
+
+.banner {
+  background-color: black;
+  color: white;
+    }
+
+  .banner span {
+    font-size: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    }
+
+  .banner img {
+  padding-left: .5rem;
+  height: 1.5rem;
+  }
